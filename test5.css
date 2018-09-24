@@ -1,0 +1,26 @@
+body{
+	background-color:white;
+}
+h1{
+	color: black;
+	font-size: 25px;
+	line-height: 1.5em;
+	background-color: blue;
+	padding: 20px;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+}
+
+h2{
+	color: black;
+	font-size: 25px;
+	line-height: 1.5em;
+	background-color: blue;
+	padding: 20px;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	margin: 20px;
+	margin-top: 60px
+}
